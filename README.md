@@ -12,13 +12,13 @@
 
 `python -m pip install django`
 
--3. intalamos django rest framework 
+- 3. intalamos django rest framework 
 `python -m pip install djangorestframework`
 
--4. intalamos Django-cors-headers
+- 4. intalamos Django-cors-headers
 
 `python -m pip install django-cors-headers`
 
--5. corremos nuestra api
+- 5. corremos nuestra api
 
 `python manage.py runserver`
